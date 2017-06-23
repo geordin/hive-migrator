@@ -13,22 +13,27 @@ Download the backup and restore scripts
 #Usage
 <br><br>
 usage: impala-backup.py [-h] tablename
-                                                                                                                                                                                                
-Backup impala databse tables                                                                                                                                                                      
-                                                                                                                                                                                                
-positional arguments:                                                                                                                                                                           
-  tablename   Tablename                                                                                                                                                                         
-                                                                                                                                                                                                
+
+Backup impala databse tables
+
+positional arguments:
+```
+  tablename Tablename
+```
 optional arguments:
-  -h, --help  show this help message and exit
-  
+```
+  -h, --help show this help message and exit
+```
 <br><br>
 usage: impala-restore.py [-h] tablename
 
 Restore impala databse tables
 
 positional arguments:
-  tablename   Tablename
-
+```
+  tablename Tablename
+```
 optional arguments:
-  -h, --help  show this help message and exit
+```
+  -h, --help show this help message and exit
+```
