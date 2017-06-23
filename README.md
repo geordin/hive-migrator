@@ -2,7 +2,7 @@
 
 Impala table backup/restore
 
-Impala is an open source massively parallel processing query engine on top of clustered systems like Apache Hadoop. 
+Impala is an open source massively parallel processing query engine runs on top of clustered systems like Apache Hadoop. 
 
 This tool contains scripts for backup and restore impala tables. Both the scripts are written in python and is compatible only with python3 or later.
 
