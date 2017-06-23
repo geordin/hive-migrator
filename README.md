@@ -11,7 +11,7 @@ This tool contains scripts for backup and restore impala tables. Both the script
 Download the backup and restore scripts
 
 #Usage
-
+<br><br>
 usage: impala-backup.py [-h] tablename
                                                                                                                                                                                                 
 Backup impala databse tables                                                                                                                                                                      
@@ -21,7 +21,8 @@ positional arguments:
                                                                                                                                                                                                 
 optional arguments:
   -h, --help  show this help message and exit
-
+  
+<br><br>
 usage: impala-restore.py [-h] tablename
 
 Restore impala databse tables
